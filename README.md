@@ -1,3 +1,4 @@
+A simple python script to extract certs out of acme.json from traefik. Has no dependencies besides bundled python3 packages.
 ### Usage
 ```
 usage: extract-certs.py [-h] [-i ACME_JSON] [-d [DOMAINS ...]] [-o OUTPUT_DIR]
